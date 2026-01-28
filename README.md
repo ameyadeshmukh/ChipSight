@@ -11,7 +11,7 @@ Containerized using Docker
 
 Hosted on Streamlit Community Cloud and GCP
 
-Try it out here!
+Try here!
 https://davidadusei123-intro-to-ai-project-frontendapp-tzqxof.streamlit.app/
 
-Use included PCB jpg example to test it out
+Download and upload the included Mouse Bite and Short PCB images to test it out!
